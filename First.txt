@@ -1,0 +1,2 @@
+This is my first task
+we use git init command to start working on a repository
